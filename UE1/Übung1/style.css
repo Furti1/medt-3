@@ -1,0 +1,18 @@
+.überschrift{
+	background-color:green;
+	color:yellow;
+}
+.text{
+	background-color:white;
+	color:red;
+}
+
+.test h2 {
+	background-color:blue;
+	color:yellow;
+}
+
+p {
+	background-color:white;
+	color:blue;
+}
